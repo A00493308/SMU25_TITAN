@@ -1,3 +1,10 @@
+#A00493308
+
+Public int Max (int a, int b) {
+    return Math.max(a,b);
+}
+
+#A00485184
 Public double Avg (int a, int b) {
 return Math.avg(a,b);// though max programming does not have this function
 }
